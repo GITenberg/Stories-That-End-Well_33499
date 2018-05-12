@@ -1,0 +1,32 @@
+_repo: Stories-That-End-Well_33499
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33499-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thanet, Octave
+    alias: French, Alice
+    birthdate: 1850
+    deathdate: 1934
+    gutenberg_agent_id: '1073'
+    url: http://www.gutenberg.org/2009/agents/1073
+description: ''
+gutenberg_issued: '2010-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+tableOfContents: An adventure in Altruria -- Through the terrors of the law -- The
+  real thing -- The old partisan -- Max; or, his picture -- The stout Miss Hopkins'
+  bicycle -- The spellbinder -- The object of the federation -- The lonely little
+  girl -- The hero of Company G -- A miracle play.
+title: Stories That End Well
+url: http://www.gutenberg.org/ebooks/33499
